@@ -1,4 +1,4 @@
-# login_signup_ui_starter
+# login_signup_ui_flutter
 
 A new Flutter project.
 
